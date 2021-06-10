@@ -1210,7 +1210,8 @@ table:not([class]) tbody tr:nth-child(odd) th {
           flex: 43%;
   padding-left: 30px;
   position: relative;
-  padding-bottom: 5px;
+  padding-bottom: 8px;
+  position: relative;
 }
 
 .image-full {
